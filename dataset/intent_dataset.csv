@@ -1,0 +1,801 @@
+﻿sentence,intent
+Hello,conversation
+Hi,conversation
+Hey,conversation
+Good morning,conversation
+Good afternoon,conversation
+Good evening,conversation
+Good night,conversation
+How are you?,conversation
+How's it going?,conversation
+What's up?,conversation
+Nice to meet you,conversation
+Who are you?,conversation
+What is your name?,conversation
+Tell me about yourself.,conversation
+What can you do?,conversation
+Can you help me?,conversation
+Thank you,conversation
+Thanks a lot,conversation
+You're awesome,conversation
+Bye,conversation
+See you later,conversation
+Have a nice day,conversation
+How's your day going?,conversation
+Are you listening?,conversation
+Can we chat?,conversation
+Hello GIN,conversation
+Hi there,conversation
+Kaise ho?,conversation
+Kya haal hai?,conversation
+Namaste,conversation
+Shukriya,conversation
+Dhanyavaad,conversation
+Alvida,conversation
+Aap kaun ho?,conversation
+Tum kaun ho?,conversation
+Tum kya kar sakte ho?,conversation
+Mujhe tumhare baare mein batao.,conversation
+Kya tum meri madad kar sakte ho?,conversation
+Kya chal raha hai?,conversation
+Milkar achha laga.,conversation
+Hello dost,conversation
+Hi buddy,conversation
+Kaise chal raha hai?,conversation
+Kya tum mujhe sun sakte ho?,conversation
+Thank you so much,conversation
+Bye bye,conversation
+Fir milte hain,conversation
+Have a great day,conversation
+You are very helpful,conversation
+Mujhse baat karo.,conversation
+Rahul ko call karo,contact
+Message Mom,contact
+Mummy ko message bhejo,contact
+Dial Dad,contact
+Call my brother,contact
+Send a message to Aman,contact
+Open my contacts,contact
+Share my location with Rahul,contact
+Video call Priya,contact
+Take a photo,camera
+Photo lo,camera
+Record a video,camera
+Record karo,camera
+Scan this QR code,camera
+Scan this card,camera
+Open the camera,camera
+Click a selfie,camera
+What do you see?,camera
+Capture this document,camera
+Increase the volume,device
+Volume up,device
+Volume down,device
+Battery kitni hai?,device
+Show battery percentage,device
+Reboot the device,device
+Restart the glasses,device
+Turn on Bluetooth,device
+Turn off WiFi,device
+Enable airplane mode,device
+Share my location with Rahul,contact
+Book a table at a restaurant near Times Square for 2 people tomorrow night,task
+What's the weather today?,search
+Will it rain tomorrow?,search
+Show me nearby restaurants.,search
+Find a coffee shop near me.,search
+What is the current temperature?,search
+Latest news about AI.,search
+Search for pizza places nearby.,search
+Show today's IPL score.,search
+Find the nearest ATM.,search
+Search for flights to Delhi.,search
+Aaj ka mausam kaisa hai?,search
+Kal baarish hogi kya?,search
+Mere aas paas restaurants dikhao.,search
+Sabse nazdeek ATM kahan hai?,search
+Aaj ki breaking news dikhao.,search
+Delhi ki flight search karo.,search
+Aaj ka gold rate batao.,search
+Petrol ka price kya hai?,search
+Cricket score batao.,search
+Taj Mahal ke timings batao.,search
+Nearby cafes dikhao.,search
+IPL ka live score batao.,search
+Mere paas medical store search karo.,search
+Aaj ka NIFTY level kya hai?,search
+Pizza outlets near me search karo.,search
+Weekend weather forecast dikhao.,search
+Best hotels near airport dikhao.,search
+Rahul Dravid ke baare mein search karo.,search
+Find hospitals near my location.,search
+Mumbai to Goa train timings dikhao.,search
+Search for nearby pharmacies.,search
+Show me the nearest petrol pump.,search
+Find a good hotel near me.,search
+What time does the sun set today?,search
+Find the nearest metro station.,search
+Nearby gym dikhao.,search
+Best restaurants in Chandigarh batao.,search
+Mere aas paas grocery store search karo.,search
+Aaj ka USD to INR exchange rate kya hai?,search
+Kal ka temperature kitna hoga?,search
+Search nearby charging stations.,search
+Find the closest police station.,search
+Who won yesterday's cricket match?,search
+Search for tourist places near me.,search
+Nearby parking search karo.,search
+Good to see you,conversation
+Hope you're doing well,conversation
+It's nice talking to you,conversation
+How have you been?,conversation
+Long time no see,conversation
+Are you there?,conversation
+Can you hear me?,conversation
+Let's have a chat,conversation
+Tell me something interesting,conversation
+Do you enjoy talking?,conversation
+You're funny,conversation
+You're very smart,conversation
+I like talking to you,conversation
+You're my favorite assistant,conversation
+Glad to meet you,conversation
+How's everything?,conversation
+Have a wonderful day,conversation
+Catch you later,conversation
+Take care,conversation
+See you soon,conversation
+Kaafi achhe ho tum,conversation
+Tum bahut intelligent ho,conversation
+Aaj kaise ho?,conversation
+Kya tum online ho?,conversation
+Mujhse thodi der baat karo,conversation
+Tumse baat karke achha laga,conversation
+Phir baat karenge,conversation
+Apna khayal rakhna,conversation
+Bahut badhiya,conversation
+Tum meri baat samajh rahe ho?,conversation
+Book a table at a restaurant,task
+Reserve a hotel room,task
+Order a taxi,task
+Book a flight to Mumbai,task
+Order groceries online,task
+Send an email to my manager,task
+Reply to my latest email,task
+Order dinner from Zomato,task
+Book movie tickets,task
+Pay my electricity bill,task
+Recharge my mobile number,task
+Recharge my FASTag,task
+Place an order for a laptop,task
+Order medicines online,task
+Download this file,task
+Upload these documents,task
+Print this document,task
+Share this file with Rahul,task
+Save this document to Drive,task
+Start recording the meeting,task
+Restaurant mein table book karo,task
+Hotel room reserve karo,task
+Cab book karo,task
+Mere liye pizza order karo,task
+Flight book kar do,task
+Bijli ka bill pay kar do,task
+Mobile recharge kar do,task
+Grocery order kar do,task
+Movie tickets book karo,task
+Email bhej do,task
+Rahul ko ye file bhej do,task
+Ye document print kar do,task
+Is file ko Google Drive mein save karo,task
+Meeting recording start karo,task
+Online shopping kar do,task
+Package pickup schedule karo,task
+Cancel my food order,task
+Return my online order,task
+Apply this coupon during checkout,task
+Confirm my hotel booking,task
+Book a salon appointment,task
+Register me for this event,task
+Fill this registration form,task
+Submit my application,task
+Schedule a car service,task
+Cancel my flight booking,task
+Order a birthday cake,task
+Reserve a cab for tomorrow morning,task
+Book a train ticket to Delhi,task
+Renew my subscription,task
+Activate my internet plan,task
+Deactivate my mobile plan,task
+Pay my credit card bill,task
+Transfer money to Rahul,task
+Send ?500 to Aman,task
+Book an Uber to the airport,task
+Book a doctor's appointment,task
+Order breakfast from Swiggy,task
+Start a screen recording,task
+Share today's report with my team,task
+Backup my photos to the cloud,task
+Delete this file permanently,task
+Compress this folder,task
+Create a PDF from these images,task
+Kal subah ke liye cab book karo,task
+Credit card ka bill pay kar do,task
+Rahul ko ?1000 transfer kar do,task
+Doctor ki appointment book kar do,task
+Cake order kar do,task
+Meri photos ka backup le lo,task
+Is folder ko zip kar do,task
+Ye file permanently delete kar do,task
+Internet pack activate kar do,task
+Train ticket book kar do,task
+Remind me to attend my meeting at 10 AM,reminder
+Remind me to pick up my laundry this evening,reminder
+Remind me to water the plants tomorrow morning,reminder
+Remind me to submit my assignment tonight,reminder
+Remind me to call the doctor after lunch,reminder
+Remind me to pay the internet bill on Friday,reminder
+Remind me to wish Rahul on his birthday,reminder
+Remind me to renew my passport next month,reminder
+Remind me to pack my bags tonight,reminder
+Remind me to leave for the airport at 6 AM,reminder
+Meeting se 15 minute pehle yaad dilana,reminder
+Kal subah jogging ke liye yaad dilana,reminder
+Raat ko laptop charge karne ki yaad dilana,reminder
+Shaam ko doodh lene ki yaad dilana,reminder
+Sunday ko ghar saaf karne ki yaad dilana,reminder
+Monday ko fees bharne ki yaad dilana,reminder
+Office nikalne se pehle wallet lena yaad dilana,reminder
+Roz subah meditation ki reminder laga do,reminder
+Kal mummy ko call karna yaad dilana,reminder
+"Passport le jana mat bhoolna, yaad dilana",reminder
+Remind me to check my emails in the evening,reminder
+Remind me to join the Zoom meeting,reminder
+Remind me to finish reading my book tonight,reminder
+Remind me to switch off the lights before sleeping,reminder
+Remind me to take an umbrella tomorrow,reminder
+Lunch break ke baad client ko call karna yaad dilana,reminder
+Gym jane ki reminder laga do,reminder
+Car service ke liye kal yaad dilana,reminder
+Mere interview se ek ghanta pehle remind karna,reminder
+Roz shaam 7 baje walk ki reminder laga do,reminder
+Kal bank jana yaad dilana,reminder
+Weekend par parents ko call karna yaad dilana,reminder
+30 minutes baad coffee peene ki yaad dilana,reminder
+Agle mahine insurance renew karna yaad dilana,reminder
+Presentation shuru hone se pehle remind karna,reminder
+Remind me to buy groceries on my way home,reminder
+Remind me to call my parents tonight,reminder
+Remind me to send the project report tomorrow,reminder
+Remind me to renew my driving license,reminder
+Remind me to pay my credit card bill before the due date,reminder
+Remind me to take a break after one hour,reminder
+Remind me to charge my phone before leaving,reminder
+Remind me to refill my water bottle,reminder
+Remind me to lock the door before leaving,reminder
+Remind me to feed my pet at 8 PM,reminder
+Mujhe shaam ko fruits khane ki yaad dilana,reminder
+Kal subah newspaper lena yaad dilana,reminder
+Roz raat 10 baje alarm lagane ki yaad dilana,reminder
+Office pahunchte hi manager ko call karna yaad dilana,reminder
+Agle hafte project submit karna yaad dilana,reminder
+Mera laptop office le jana yaad dilana,reminder
+Weekend par room clean karna yaad dilana,reminder
+Roz subah vitamins lene ki yaad dilana,reminder
+Electricity bill due hone se pehle yaad dilana,reminder
+Kal dost se milna yaad dilana,reminder
+Remind me to update my resume this weekend,reminder
+Remind me to complete my online course tonight,reminder
+Remind me to check my bank balance tomorrow,reminder
+Remind me to book my train tickets next week,reminder
+Remind me to wash my car this Sunday,reminder
+Dentist appointment ke ek din pehle remind karna,reminder
+Flight ke liye online check-in karna yaad dilana,reminder
+Birthday gift kharidna yaad dilana,reminder
+Roz dopahar ko paani peene ki reminder laga do,reminder
+Kal subah yoga karna yaad dilana,reminder
+Passport renew karwana yaad dilana,reminder
+Insurance premium bharna yaad dilana,reminder
+Meeting notes bhejna yaad dilana,reminder
+Kal library ki books return karna yaad dilana,reminder
+Evening mein walk par jana yaad dilana,reminder
+Schedule a meeting with Rahul on Monday,calendar
+Add lunch with Priya to my calendar,calendar
+Create an event for the annual conference,calendar
+Block my calendar for tomorrow afternoon,calendar
+Schedule my dentist visit for Friday,calendar
+Add a reminder-free meeting on Wednesday,calendar
+Move my meeting to 3 PM,calendar
+Cancel my appointment with the doctor,calendar
+Reschedule my interview to next Monday,calendar
+Show my calendar for next week,calendar
+What meetings do I have tomorrow?,calendar
+Add a birthday party to my calendar,calendar
+Schedule a project review meeting,calendar
+Create a recurring meeting every Monday,calendar
+Remove tomorrow's meeting from my calendar,calendar
+Rahul ke saath meeting schedule karo,calendar
+Kal dopahar lunch meeting add karo,calendar
+Friday ke liye appointment book karo,calendar
+Meri meeting ko 5 baje shift karo,calendar
+Agle hafte ka calendar dikhao,calendar
+Monday ki saari meetings dikhao,calendar
+Calendar mein gym session add karo,calendar
+Kal ki appointment cancel karo,calendar
+Roz subah 9 baje standup meeting schedule karo,calendar
+Client meeting ko reschedule karo,calendar
+Add my exam date to the calendar,calendar
+Schedule a parents' meeting for Saturday,calendar
+Set up a Zoom meeting for 4 PM,calendar
+Add a family dinner to my calendar,calendar
+Schedule a client call on Tuesday,calendar
+Create a calendar event for my vacation,calendar
+Reserve my evening for personal work,calendar
+Mark tomorrow as unavailable,calendar
+Add my flight departure to the calendar,calendar
+Show my appointments for this month,calendar
+Schedule my annual health checkup,calendar
+Add my friend's wedding to the calendar,calendar
+Next Friday ko office visit schedule karo,calendar
+Weekend ke liye trip calendar mein add karo,calendar
+Meri interview date calendar mein save karo,calendar
+Calendar se Sunday ka event delete karo,calendar
+Conference call ko calendar mein add karo,calendar
+Kal 11 baje client discussion schedule karo,calendar
+Is month's events dikhao,calendar
+Next available slot mein meeting schedule karo,calendar
+Schedule a team stand-up every weekday at 9 AM,calendar
+Add a client presentation to my calendar,calendar
+Create an event for the product launch,calendar
+Schedule a follow-up meeting next Thursday,calendar
+Add a lunch break to my calendar,calendar
+Move my gym session to the evening,calendar
+Show all events for this weekend,calendar
+What appointments do I have today?,calendar
+Add a webinar to my calendar,calendar
+Schedule a performance review meeting,calendar
+Team meeting kal 10 baje schedule karo,calendar
+Friday ko lunch meeting add karo,calendar
+Calendar mein movie night add karo,calendar
+Agle mahine ke events dikhao,calendar
+Monday wali meeting cancel kar do,calendar
+Kal ki meeting ko Friday par shift karo,calendar
+Saturday ke liye cricket match add karo,calendar
+Calendar mein birthday celebration add karo,calendar
+Evening ke liye free slot block kar do,calendar
+Office holiday calendar mein add karo,calendar
+Add my visa appointment to the calendar,calendar
+Schedule a parent-teacher meeting,calendar
+Create an event for tomorrow's workshop,calendar
+Block my calendar for the entire day,calendar
+Show my free time this afternoon,calendar
+Open the front camera,camera
+Open the rear camera,camera
+Capture a landscape photo,camera
+Take a group photo,camera
+Start recording in HD,camera
+Stop the video recording,camera
+Pause the recording,camera
+Resume the recording,camera
+Switch to selfie mode,camera
+Turn on the flash,camera
+Turn off the flash,camera
+Zoom in the camera,camera
+Zoom out the camera,camera
+Scan this barcode,camera
+Scan this document,camera
+Identify this object,camera
+What is this flower?,camera
+Recognize this landmark,camera
+Read the text on this sign,camera
+Count the people in front of me,camera
+Is anyone standing nearby?,camera
+Tell me what you can see,camera
+Detect obstacles ahead,camera
+Capture this whiteboard,camera
+Save this picture,camera
+Front camera kholo,camera
+Back camera open karo,camera
+Flash on karo,camera
+Flash off karo,camera
+Zoom in karo,camera
+Zoom out karo,camera
+Is QR code ko scan karo,camera
+Is document ki photo le lo,camera
+Mere saamne kya hai?,camera
+Ye object identify karo,camera
+Kitne log dikh rahe hain?,camera
+Is board ka text padho,camera
+Selfie mode on karo,camera
+Video recording band karo,camera
+Recording resume karo,camera
+Take a burst of photos,camera
+Capture this receipt clearly,camera
+Scan my business card,camera
+Identify the product in front of me,camera
+Start time-lapse recording,camera
+Capture a panoramic photo,camera
+Take a portrait photo,camera
+Record in slow motion,camera
+Switch to video mode,camera
+Switch to photo mode,camera
+Scan this invoice,camera
+Read the expiry date on this medicine,camera
+Identify this animal,camera
+Identify this bird,camera
+Recognize this logo,camera
+Translate the text on this sign,camera
+Is the traffic signal green or red?,camera
+Tell me the color of this shirt,camera
+Find my water bottle using the camera,camera
+Panorama mode on karo,camera
+Slow motion video record karo,camera
+Is medicine ki expiry date padho,camera
+Is panchi ka naam batao,camera
+Mere saamne ka scene describe karo,camera
+Is packet par kya likha hai?,camera
+Is logo ko identify karo,camera
+Camera se meri surroundings batao,camera
+Is building ko pehchano,camera
+Detect if someone is waving at me,camera
+Turn on Wi-Fi,device
+Turn off Wi-Fi,device
+Connect to Bluetooth,device
+Disconnect Bluetooth,device
+Increase screen brightness,device
+Decrease screen brightness,device
+Mute the device,device
+Unmute the device,device
+Lock the device,device
+Unlock the device,device
+Turn on Do Not Disturb mode,device
+Turn off Do Not Disturb mode,device
+Enable silent mode,device
+Disable silent mode,device
+Show available storage,device
+How much storage is left?,device
+Clear app cache,device
+Turn on battery saver mode,device
+Turn off battery saver mode,device
+Check network strength,device
+Wi-Fi on karo,device
+Wi-Fi off karo,device
+Bluetooth connect karo,device
+Bluetooth disconnect karo,device
+Brightness badha do,device
+Brightness kam kar do,device
+Device mute kar do,device
+Silent mode on karo,device
+Storage kitni bachi hai?,device
+Battery saver on karo,device
+Do Not Disturb mode chalu karo,device
+Network signal check karo,device
+Device lock karo,device
+Device unlock karo,device
+Cache clear kar do,device
+Wi-Fi ki speed check karo,device
+Clear temporary files,device
+Enable dark mode,device
+Disable dark mode,device
+Turn on hotspot,device
+Turn off hotspot,device
+Check device temperature,device
+Turn on location services,device
+Turn off location services,device
+Enable NFC,device
+Disable NFC,device
+Check the battery health,device
+Update the device software,device
+Check for software updates,device
+Install the latest update,device
+Factory reset the device,device
+Restart Bluetooth services,device
+Forget the connected Wi-Fi network,device
+Pair the device with my phone,device
+Disconnect from my phone,device
+Turn on voice commands,device
+Turn off voice commands,device
+Show device information,device
+Display the serial number,device
+Enable auto brightness,device
+Disable auto brightness,device
+Reset network settings,device
+GPS on karo,device
+GPS off karo,device
+Software update check karo,device
+Device update install karo,device
+Phone ke saath pair karo,device
+Auto brightness on karo,device
+Voice commands band karo,device
+Device information dikhao,device
+Network settings reset karo,device
+Firmware version batao,device
+Good to have you here,conversation
+It's great talking to you,conversation
+You seem helpful,conversation
+I appreciate your help,conversation
+You're doing a great job,conversation
+Can we talk for a while?,conversation
+Tell me something fun,conversation
+Make me smile,conversation
+Say something interesting,conversation
+I'm feeling bored,conversation
+I'm back,conversation
+Welcome back,conversation
+Glad you're here,conversation
+Let's start chatting,conversation
+Can you keep me company?,conversation
+Tum bahut helpful ho,conversation
+Aaj tum kaise feel kar rahe ho?,conversation
+Mere saath thodi der baat karo,conversation
+Tum mujhe pehchante ho?,conversation
+Mujhe tumse baat karna achha lagta hai,conversation
+Schedule a quarterly review meeting for next Friday at 2 PM,calendar
+Remind me to submit my tax returns next week,reminder
+Remind me to attend my yoga class tomorrow morning,reminder
+Remind me to refill my prescription medicine,reminder
+Remind me to call the electrician this evening,reminder
+Remind me to cancel my subscription before it renews,reminder
+Remind me to check in for my flight tomorrow,reminder
+Remind me to send my monthly report on Friday,reminder
+Remind me to renew my gym membership next month,reminder
+Remind me to carry my passport before leaving,reminder
+Remind me to attend the parent-teacher meeting,reminder
+Kal subah office jaldi nikalna yaad dilana,reminder
+Agle Monday salary check karna yaad dilana,reminder
+Roz shaam ko dog ko walk par le jana yaad dilana,reminder
+Laptop charger saath le jana yaad dilana,reminder
+Kal shaam ko dost se milna yaad dilana,reminder
+Is Sunday kapde dhona yaad dilana,reminder
+Ek ghante baad mujhe stretch karne ki yaad dilana,reminder
+What is the air quality index today?,search
+Show me the traffic conditions nearby.,search
+Find the nearest hospital.,search
+Search for vegetarian restaurants nearby.,search
+What time does the nearest mall open?,search
+Find a pharmacy that's open now.,search
+Search for the closest EV charging station.,search
+Show me today's horoscope.,search
+Find the nearest bus stop.,search
+Search for the best coffee shops nearby.,search
+What's the exchange rate for USD today?,search
+Find nearby parking spaces.,search
+Show me nearby hotels.,search
+When is the next train to Delhi?,search
+Search for the nearest airport.,search
+AQI kitna hai aaj?,search
+Mere aas paas hospital dikhao.,search
+Sabse nazdeek bus stop kahan hai?,search
+Nearby pharmacy search karo.,search
+Aaj ka Sensex kitna hai?,search
+Mere paas parking search karo.,search
+Nearest metro station dikhao.,search
+Agli Delhi train kab hai?,search
+Weekend mein weather kaisa rahega?,search
+Aaj ka silver rate batao.,search
+Mumbai ke best cafes dikhao.,search
+Mere aas paas gym search karo.,search
+Is area ke top hotels dikhao.,search
+Nearby electric vehicle charging station dikhao.,search
+Aaj ka fuel price batao.,search
+Find tourist attractions near me.,search
+Search for nearby coworking spaces.,search
+Find the nearest police station.,search
+Show today's top headlines.,search
+Search for nearby bookstores.,search
+Find the nearest cinema hall.,search
+Compare these two products using the camera,camera
+Is this fruit fresh?,camera
+Check if this document is signed,camera
+Scan this menu and read it aloud,camera
+Show me what's behind me,camera
+Is this traffic light red or green?,camera
+Cancel my hotel reservation,task
+Apply for a leave on my behalf,task
+Upload my resume to the job portal,task
+Renew my vehicle insurance,task
+Schedule a package pickup from my home,task
+Convert this document into a PDF,task
+Call my father,contact
+Call my mother,contact
+Call my wife,contact
+Call my husband,contact
+Call my best friend,contact
+Call my office,contact
+Dial the last contacted number,contact
+Redial the previous number,contact
+Send a text to Rahul,contact
+Send an SMS to Mom,contact
+Send a WhatsApp message to Aman,contact
+Send a voice message to Priya,contact
+Video call my sister,contact
+Audio call my brother,contact
+Open my contacts list,contact
+Search for Rahul in my contacts,contact
+Find Neha's phone number,contact
+Add a new contact named Arjun,contact
+Save this number as Rahul,contact
+Delete Aman from my contacts,contact
+Edit Priya's contact number,contact
+Share Rahul's contact,contact
+Share my phone number with Aman,contact
+Send my live location to Mom,contact
+Send my current location to Rahul,contact
+Call Papa,contact
+Call Mummy,contact
+Rahul ko message bhejo,contact
+Aman ko WhatsApp karo,contact
+Priya ko voice message bhejo,contact
+Bhai ko call karo,contact
+Didi ko video call karo,contact
+Contacts kholo,contact
+Rahul ka number dhoondo,contact
+Is number ko save karo,contact
+Is contact ko delete karo,contact
+Mummy ko location share karo,contact
+Papa ko current location bhejo,contact
+Mere dost ko call lagao,contact
+Last dialed number par call karo,contact
+Send an email to Rahul,contact
+Email my manager,contact
+Share this contact with Priya,contact
+Invite Rahul to join the call,contact
+Start a conference call with my team,contact
+Call my uncle,contact
+Call my aunt,contact
+Call my cousin,contact
+Call my grandmother,contact
+Call my grandfather,contact
+Send a message to my wife,contact
+Send a message to my husband,contact
+Call my manager,contact
+Call my colleague,contact
+Send a birthday wish to Rahul,contact
+Text Neha that I'm running late,contact
+Inform my team I'll join in 10 minutes,contact
+"Send ""I'm on my way"" to Dad",contact
+Message my landlord,contact
+Call the emergency contact,contact
+Open Rahul's contact details,contact
+Show all favorite contacts,contact
+Search contacts starting with A,contact
+Call the first contact in my favorites,contact
+Share my contact card,contact
+Chacha ko call karo,contact
+Chachi ko message bhejo,contact
+Dada ji ko phone lagao,contact
+Dadi ko video call karo,contact
+Boss ko call karo,contact
+Team ko message bhejo,contact
+Mere colleague ko WhatsApp karo,contact
+"Rahul ko ""Happy Birthday"" bhejo",contact
+Mere emergency contact ko call karo,contact
+Favourite contacts dikhao,contact
+Contacts mein Aman ko search karo,contact
+Is number par WhatsApp message bhejo,contact
+Start a group call with my family,contact
+Send a meeting invite to Rahul,contact
+नमस्ते,conversation
+क्या हाल है?,conversation
+आप कौन हो?,conversation
+तुम कौन हो?,conversation
+तुम क्या कर सकते हो?,conversation
+मुझे अपने बारे में बताओ।,conversation
+क्या तुम मेरी मदद कर सकते हो?,conversation
+मिलकर अच्छा लगा।,conversation
+शुक्रिया।,conversation
+धन्यवाद।,conversation
+अलविदा।,conversation
+आज कैसे हो?,conversation
+क्या तुम ऑनलाइन हो?,conversation
+मुझसे थोड़ी देर बात करो।,conversation
+तुमसे बात करके अच्छा लगा।,conversation
+आपसे बात करके अच्छा लगा।,conversation
+क्या आप मेरी बात सुन रहे हैं?,conversation
+चलो थोड़ी बातचीत करते हैं।,conversation
+"फिर मिलेंगे, अपना ध्यान रखना।",conversation
+आपका दिन शुभ हो।,conversation
+आज का मौसम कैसा है?,search
+कल बारिश होगी क्या?,search
+मेरे पास का अस्पताल कहाँ है?,search
+आज की शेयर मार्केट न्यूज़ बताओ।,search
+सबसे नज़दीकी रेलवे स्टेशन कहाँ है?,search
+दिल्ली से जयपुर की ट्रेन टाइमिंग बताओ।,search
+आज का चाँद निकलने का समय क्या है?,search
+आज का AQI कितना है?,search
+सबसे नज़दीकी बस स्टॉप कहाँ है?,search
+पास का मेडिकल स्टोर दिखाओ।,search
+इस इलाके के अच्छे होटल दिखाओ।,search
+सबसे नज़दीकी पेट्रोल पंप कहाँ है?,search
+इस सप्ताह का मौसम पूर्वानुमान बताओ।,search
+पास के शॉपिंग मॉल दिखाओ।,search
+आज का सोने का भाव क्या है?,search
+आज का चाँदी का भाव बताओ।,search
+आज का डॉलर रेट क्या है?,search
+आज का सेंसेक्स कितना है?,search
+अगले सोमवार मीटिंग शेड्यूल करो।,calendar
+कल का कैलेंडर दिखाओ।,calendar
+मेरी डॉक्टर की अपॉइंटमेंट जोड़ दो।,calendar
+मीटिंग को अगले हफ्ते के लिए रीशेड्यूल करो।,calendar
+शुक्रवार की अपॉइंटमेंट हटा दो।,calendar
+अगले मंगलवार इंटरव्यू शेड्यूल करो।,calendar
+इस हफ्ते की सभी मीटिंग्स दिखाओ।,calendar
+मेरी छुट्टी कैलेंडर में जोड़ दो।,calendar
+रविवार का इवेंट हटा दो।,calendar
+अगले महीने की अपॉइंटमेंट्स दिखाओ।,calendar
+मेरे लिए टैक्सी बुक करो।,task
+होटल बुक कर दो।,task
+बिजली का बिल जमा कर दो।,task
+किराने का सामान ऑर्डर कर दो।,task
+यह फ़ाइल डाउनलोड कर दो।,task
+यह फोटो क्लाउड पर सेव कर दो।,task
+डॉक्टर की अपॉइंटमेंट बुक कर दो।,task
+मोबाइल रिचार्ज कर दो।,task
+केक ऑर्डर कर दो।,task
+फ्लाइट बुक कर दो।,task
+कल सुबह 6 बजे उठने की याद दिलाना।,reminder
+दवाई रात 9 बजे लेने की याद दिलाना।,reminder
+हर दिन पानी पीने की याद दिलाना।,reminder
+अगले हफ्ते डॉक्टर से मिलने की याद दिलाना।,reminder
+महीने की पहली तारीख को किराया भरने की याद दिलाना।,reminder
+मुझे शाम को टहलने की याद दिलाना।,reminder
+हर सोमवार पौधों में पानी डालने की याद दिलाना।,reminder
+अगले महीने बैंक जाना याद दिलाना।,reminder
+रात को गैस बंद करना याद दिलाना।,reminder
+सुबह ऑफिस निकलने से पहले चाबियाँ लेना याद दिलाना।,reminder
+अगले हफ्ते बैंक में केवाईसी करवाने की याद दिलाना।,reminder
+आज रात दरवाज़ा लॉक करना याद दिलाना।,reminder
+हर शुक्रवार खर्चों का हिसाब देखने की याद दिलाना।,reminder
+माँ को कॉल करो।,contact
+पापा को मैसेज भेजो।,contact
+मेरे दोस्त को वीडियो कॉल करो।,contact
+नया संपर्क जोड़ो।,contact
+इस नंबर को सेव कर दो।,contact
+संपर्क सूची दिखाओ।,contact
+राहुल का मोबाइल नंबर दिखाओ।,contact
+इस संपर्क को अपडेट करो।,contact
+मेरी लोकेशन भाई के साथ शेयर करो।,contact
+मेरी बहन को फोन लगाओ।,contact
+मेरे भाई को मैसेज भेजो।,contact
+मेरे ऑफिस में कॉल करो।,contact
+इस नंबर पर कॉल करो।,contact
+मेरे परिवार को मेरी लोकेशन भेजो।,contact
+इस संपर्क का ईमेल खोलो।,contact
+इस QR कोड को स्कैन करो।,camera
+इस पौधे की पहचान करो।,camera
+इस इमारत का नाम बताओ।,camera
+इस बोर्ड पर क्या लिखा है?,camera
+फोटो को गैलरी में सेव कर दो।,camera
+सामने क्या दिखाई दे रहा है?,camera
+इस जानवर की पहचान करो।,camera
+कैमरे से रास्ता दिखाओ।,camera
+इस पोस्टर पर क्या लिखा है?,camera
+इस फोटो को बेहतर क्वालिटी में लो।,camera
+वाई-फाई चालू करो।,device
+ब्लूटूथ बंद कर दो।,device
+स्क्रीन की ब्राइटनेस बढ़ा दो।,device
+साइलेंट मोड चालू करो।,device
+बैटरी सेवर ऑन कर दो।,device
+डिवाइस लॉक कर दो।,device
+स्टोरेज कितनी बची है?,device
+नेटवर्क सिग्नल दिखाओ।,device
+Cancel my cab booking,task
+Upgrade my flight seat,task
+Renew my passport application,task
+Book a haircut appointment,task
+Place an order for a birthday gift,task
+Subscribe me to this newsletter,task
+Unsubscribe me from promotional emails,task
+Create a backup of my documents,task
+Export my contacts to a file,task
+Sync my files to the cloud,task
+Is report ko PDF mein convert karo,task
+Mere liye hotel reservation confirm karo,task
+Online meeting ka invite bhej do,task
+Mere package ka pickup schedule karo,task
+Is photo ko email kar do,task
+Shopping cart ka checkout complete karo,task
+Is folder ko Google Drive par upload karo,task
+Food order cancel kar do,task
+Mere account ka statement download kar do,task
+Subscription renew kar do,task
